@@ -53,5 +53,12 @@ Your security matters. **B.CaptchaAI** does not collect, store, or share any use
 - Ensure compliance with website policies.
 - The developer is not responsible for any misuse.
 
+### Disclaimer
+Read the full disclaimer [here](https://www.termsfeed.com/live/3bf1fc40-b58c-42e9-8794-d4c4901205cf).
+
+### Privacy Policy
+Read the full privacy policy [here](https://www.termsfeed.com/live/6aded347-a6c9-4eba-959b-acfa8ed47ee2).
+
 Licensed under the [MIT License](LICENSE).
+
 
