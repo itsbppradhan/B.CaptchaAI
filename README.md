@@ -2,6 +2,9 @@
 
 ### Captcha Solving. Simplified.
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/fa86de78-7126-4615-92cc-49552b59ff6b" />
+
+
 **B.CaptchaAI** eliminates the hassle of captcha entry on the [DPS Kolkata Student Portal](https://dpskolkata.net). Powered by AI, it works seamlessly in the background—so you don’t have to.
 
 ---
@@ -32,11 +35,6 @@
 
 ---
 
-## Preview
-
-*Placeholder for Screenshot*
-
----
 
 ## Designed for Simplicity
 
